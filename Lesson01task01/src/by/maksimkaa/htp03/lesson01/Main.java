@@ -7,7 +7,7 @@ public class Main {
 		
 		double y = x - Math.pow(x, 3);
 		
-		System.out.println(y);
+		System.out.println("значение выражения равно" + y);
 
 	}
 
